@@ -14,7 +14,7 @@
 
 ![image](https://user-images.githubusercontent.com/75538743/117330665-99015800-ae9e-11eb-98a0-f23514c432ce.png)
 
-4.	 Изменены иконки оли палок (KaruzoIcon.utx)
+4.	 Изменены иконки оли палок (KaruzoIcon.utx и weapongrp.dat)
 
 ![image](https://user-images.githubusercontent.com/75538743/117330679-9dc60c00-ae9e-11eb-82b4-e77ca4a11ace.png)
 
@@ -22,11 +22,11 @@
 
 ![image](https://user-images.githubusercontent.com/75538743/117330697-a1f22980-ae9e-11eb-8e93-8df41e72513b.png)
 
-6.	 Изменены иконки трансформаций с сабов(KaruzoIcon.utx)
+6.	 Изменены иконки трансформаций с сабов(KaruzoIcon.utx и skillgrp.dat)
 
 ![image](https://user-images.githubusercontent.com/75538743/117330718-a61e4700-ae9e-11eb-8c4c-74b0591e0df9.png)
 
-7.	Добавлено единое свечение для всех оли палок
+7.	Добавлено единое свечение для всех оли палок(weapongrp.dat)
 
 ![image](https://user-images.githubusercontent.com/75538743/117331462-728fec80-ae9f-11eb-84da-8316dd726bb0.png)
 ![image](https://user-images.githubusercontent.com/75538743/117331476-758add00-ae9f-11eb-8768-36b0d84160ca.png)
