@@ -1,4 +1,4 @@
-# Patch!
+# Сhanges!
 1.	 Добавлен кд скиллов в % (L2_SkillTime.utx) 
 
 ![image](https://user-images.githubusercontent.com/75538743/117330573-825b0100-ae9e-11eb-9fcf-ef986ce40f45.png)
